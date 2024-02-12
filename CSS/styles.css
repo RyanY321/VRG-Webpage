@@ -107,6 +107,7 @@ ul li a.active {
 
     #checkbox:checked~ul {
         display: block;
+        z-index: 1;
     }
 }
 
@@ -157,16 +158,16 @@ body {
 }
 
 .Social-Button {
-    margin-top: 10px;
+    margin-top: 30px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
-    width: 80%;
+    width: 95%;
     height: 50px;
     border-radius: 10px;
     background-color: #88cafc;
-    border: 2px solid #edcc6f;
+    border: 5px dashed #edcc6f;
     font-size: 20px;
     font-family: 'Heyam', sans-serif;
     cursor: pointer;
