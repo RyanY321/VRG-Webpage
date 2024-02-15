@@ -176,11 +176,3 @@ body {
 .Social-Button:active {
     transform: translateY(4px);
 }
-
-.Ryan-PFP-Home {
-    border-radius: 50%;
-    border: 5px dashed #88cafc;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
