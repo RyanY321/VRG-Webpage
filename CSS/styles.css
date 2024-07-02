@@ -192,3 +192,8 @@ body {
 .Social-Button:active {
     transform: translateY(4px);
 }
+
+.VRG-Banner-Class {
+    width: 100%;
+    max-height: 153px;
+}
